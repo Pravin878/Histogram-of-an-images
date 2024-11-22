@@ -1,4 +1,4 @@
-# Histogram-of-an-images
+# Ex-3-Histogram-of-an-images
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 ```
 # Developed By: pravin kumar G
 # Register Number: 212222230109
-
-
+``` 
+```python
 !pip install opencv-python
 
 import cv2
